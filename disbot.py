@@ -22,15 +22,24 @@ async def on_message(message):
     # 課題曲 曲数 難易度範囲 / ex. 課題曲 3 17-19) 
     if message.content.startswith("課題"):
         if client.user != message.author.name:
+
+            # メッセージの内容を取得
             currentMessage = message.content
+
+            # 曲数とか難易度の範囲とかをsplitして変数に格納
             sentMessage = currentMessage.split()
             numOfSongs = int(sentMessage[1])
             rangeOfDifficulty = sentMessage[2].split("-")
+            
+            # 難易度の範囲を数字に直す
             difficulty = []
             for i in range(int(rangeOfDifficulty[0]), int(rangeOfDifficulty[1])+1 ):
                 difficulty.append(i)
             
+            # 曲と難易度をgetSongs関数で取得
             songs, difficultyOfSongs = getsongs.getSongs(numOfSongs, difficulty)
+
+            # 帰ってきたメッセージを合体して送信
             sendMessage = ""
             for i in range(len(songs)):
                 sendMessage = sendMessage + f'{songs[i]} 足{difficultyOfSongs[i]}\n'
