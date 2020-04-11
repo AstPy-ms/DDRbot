@@ -1,0 +1,1864 @@
+[
+    {
+      "id": 1,
+      "曲名": "愛言葉(激)",
+      "フォルダ": "A",
+      "BPM": 137,
+      "NOTES/FREEZE\n(SHOCK)": "359/11"
+    },
+    {
+      "id": 2,
+      "曲名": "妖隠し -あやかしかくし-(踊)",
+      "フォルダ": 2014,
+      "BPM": 85,
+      "NOTES/FREEZE\n(SHOCK)": "448/16"
+    },
+    {
+      "id": 3,
+      "曲名": "アルストロメリア (walk with you remix)(激)",
+      "フォルダ": "X3",
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "370/12"
+    },
+    {
+      "id": 4,
+      "曲名": "怒れる大きな白い馬(激)",
+      "フォルダ": "SN",
+      "BPM": "110-148",
+      "NOTES/FREEZE\n(SHOCK)": "347/5"
+    },
+    {
+      "id": 5,
+      "曲名": "色は匂へど散りぬるを(激)",
+      "フォルダ": "A",
+      "BPM": 138,
+      "NOTES/FREEZE\n(SHOCK)": "329/24"
+    },
+    {
+      "id": 6,
+      "曲名": "エキサイティング!!も・ちゃ・ちゃ☆(踊)",
+      "フォルダ": "A",
+      "BPM": 187,
+      "NOTES/FREEZE\n(SHOCK)": "325/14"
+    },
+    {
+      "id": 7,
+      "曲名": "おねがいダーリン(激)",
+      "フォルダ": "A",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "435/17"
+    },
+    {
+      "id": 8,
+      "曲名": "朧(激)",
+      "フォルダ": "A",
+      "BPM": 149,
+      "NOTES/FREEZE\n(SHOCK)": "379/44"
+    },
+    {
+      "id": 9,
+      "曲名": "革命(鬼)",
+      "フォルダ": "MAX2",
+      "BPM": "83-148",
+      "NOTES/FREEZE\n(SHOCK)": "317/7"
+    },
+    {
+      "id": 10,
+      "曲名": "きゅん×きゅんばっきゅん☆LOVE(激)",
+      "フォルダ": "A",
+      "BPM": 165,
+      "NOTES/FREEZE\n(SHOCK)": "436/4"
+    },
+    {
+      "id": 11,
+      "曲名": "倉野川音頭(激)",
+      "フォルダ": "A",
+      "BPM": 113,
+      "NOTES/FREEZE\n(SHOCK)": "330/2"
+    },
+    {
+      "id": 12,
+      "曲名": "恋のパズルマジック(激)",
+      "フォルダ": "A",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "302/2"
+    },
+    {
+      "id": 13,
+      "曲名": "恋はどう？モロ◎波動OK☆方程式！！(踊)",
+      "フォルダ": 2014,
+      "BPM": "128-256",
+      "NOTES/FREEZE\n(SHOCK)": "363/21"
+    },
+    {
+      "id": 14,
+      "曲名": "この青空の下で(激)",
+      "フォルダ": "A",
+      "BPM": 165,
+      "NOTES/FREEZE\n(SHOCK)": "407/4"
+    },
+    {
+      "id": 15,
+      "曲名": "最小三倍完全数(楽)",
+      "フォルダ": "A20",
+      "BPM": "55-440",
+      "NOTES/FREEZE\n(SHOCK)": "270/6"
+    },
+    {
+      "id": 16,
+      "曲名": "桜(踊)",
+      "フォルダ": "EXT",
+      "BPM": "20-320",
+      "NOTES/FREEZE\n(SHOCK)": "345/3"
+    },
+    {
+      "id": 17,
+      "曲名": "桜(鬼)",
+      "フォルダ": "EXT",
+      "BPM": "20-320",
+      "NOTES/FREEZE\n(SHOCK)": "356/1"
+    },
+    {
+      "id": 18,
+      "曲名": "漆黒のスペシャルプリンセスサンデー(踊)",
+      "フォルダ": 2014,
+      "BPM": 200,
+      "NOTES/FREEZE\n(SHOCK)": "380/20"
+    },
+    {
+      "id": 19,
+      "曲名": "しゃかりきリレーション(激)",
+      "フォルダ": "A",
+      "BPM": 167,
+      "NOTES/FREEZE\n(SHOCK)": "400/13"
+    },
+    {
+      "id": 20,
+      "曲名": "灼熱Beach Side Bunny(踊)",
+      "フォルダ": 2014,
+      "BPM": 153,
+      "NOTES/FREEZE\n(SHOCK)": "415/8"
+    },
+    {
+      "id": 21,
+      "曲名": "零 -ZERO-(激)",
+      "フォルダ": "X",
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "384/29"
+    },
+    {
+      "id": 22,
+      "曲名": "打打打打打打打打打打(踊)",
+      "フォルダ": "A",
+      "BPM": 156,
+      "NOTES/FREEZE\n(SHOCK)": "342/15"
+    },
+    {
+      "id": 23,
+      "曲名": "毒占欲(激)",
+      "フォルダ": "A20",
+      "BPM": 117,
+      "NOTES/FREEZE\n(SHOCK)": "309/26"
+    },
+    {
+      "id": 24,
+      "曲名": "突撃!ガラスのニーソ姫!(踊)",
+      "フォルダ": 2014,
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "348/32"
+    },
+    {
+      "id": 25,
+      "曲名": "轟け！恋のビーンボール！！(踊)",
+      "フォルダ": 2014,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "357/8"
+    },
+    {
+      "id": 26,
+      "曲名": "ナイト・オブ・ナイツ(踊)",
+      "フォルダ": "A",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "400/2"
+    },
+    {
+      "id": 27,
+      "曲名": "†渚の小悪魔ラヴリィ～レイディオ†(踊)",
+      "フォルダ": 2013,
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "379/36"
+    },
+    {
+      "id": 28,
+      "曲名": "虹色(激)",
+      "フォルダ": "SN",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "328/0"
+    },
+    {
+      "id": 29,
+      "曲名": "虹色の花(激)",
+      "フォルダ": 2013,
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "400/22"
+    },
+    {
+      "id": 30,
+      "曲名": "爆なな☆てすとロイヤー(踊)",
+      "フォルダ": 2014,
+      "BPM": 200,
+      "NOTES/FREEZE\n(SHOCK)": "391/11"
+    },
+    {
+      "id": 31,
+      "曲名": "華爛漫 -Flowers-(激)",
+      "フォルダ": "SN",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "348/1"
+    },
+    {
+      "id": 32,
+      "曲名": "ハピ恋☆らぶりぃタイム!!(激)",
+      "フォルダ": "A",
+      "BPM": 139,
+      "NOTES/FREEZE\n(SHOCK)": "361/7"
+    },
+    {
+      "id": 33,
+      "曲名": "ハルイチバン(激)",
+      "フォルダ": "A",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "356/44"
+    },
+    {
+      "id": 34,
+      "曲名": "バンブーソード・ガール(踊)",
+      "フォルダ": 2014,
+      "BPM": 208,
+      "NOTES/FREEZE\n(SHOCK)": "406/16"
+    },
+    {
+      "id": 35,
+      "曲名": "ヒカリユリイカ(激)",
+      "フォルダ": "A20",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "358/20"
+    },
+    {
+      "id": 36,
+      "曲名": "ヒマワリ(激)",
+      "フォルダ": "SN",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "370/2"
+    },
+    {
+      "id": 37,
+      "曲名": "ホーンテッド★メイドランチ(踊)",
+      "フォルダ": "A20",
+      "BPM": 188,
+      "NOTES/FREEZE\n(SHOCK)": "335/15"
+    },
+    {
+      "id": 38,
+      "曲名": "星屑のキロク(激)",
+      "フォルダ": 2014,
+      "BPM": 182,
+      "NOTES/FREEZE\n(SHOCK)": "355/46"
+    },
+    {
+      "id": 39,
+      "曲名": "魔法のたまご ～心菜 ELECTRO POP edition～(激)",
+      "フォルダ": "A",
+      "BPM": 142,
+      "NOTES/FREEZE\n(SHOCK)": "327/1"
+    },
+    {
+      "id": 40,
+      "曲名": "回レ！雪月花(激)",
+      "フォルダ": 2014,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "317/12"
+    },
+    {
+      "id": 41,
+      "曲名": "三毛猫ロック(激)",
+      "フォルダ": "EXT",
+      "BPM": "246\n(152-250)",
+      "NOTES/FREEZE\n(SHOCK)": "314/9"
+    },
+    {
+      "id": 42,
+      "曲名": "ミッドナイト☆WAR(踊)",
+      "フォルダ": "A20",
+      "BPM": 156,
+      "NOTES/FREEZE\n(SHOCK)": "393/18"
+    },
+    {
+      "id": 43,
+      "曲名": "夢幻ノ光(激)",
+      "フォルダ": "SN",
+      "BPM": 171,
+      "NOTES/FREEZE\n(SHOCK)": "331/25"
+    },
+    {
+      "id": 44,
+      "曲名": "冥(踊)",
+      "フォルダ": "X2",
+      "BPM": "66-200",
+      "NOTES/FREEZE\n(SHOCK)": "443/8"
+    },
+    {
+      "id": 45,
+      "曲名": "妄想税(激)",
+      "フォルダ": "A",
+      "BPM": 134,
+      "NOTES/FREEZE\n(SHOCK)": "367/21"
+    },
+    {
+      "id": 46,
+      "曲名": "ヤマトなでなで♡かぐや姫(激)",
+      "フォルダ": 2014,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "321/20"
+    },
+    {
+      "id": 47,
+      "曲名": "凛として咲く花の如く～ひなビタ♪edition～(激)",
+      "フォルダ": 2013,
+      "BPM": 163,
+      "NOTES/FREEZE\n(SHOCK)": "411/30"
+    },
+    {
+      "id": 48,
+      "曲名": "輪廻転生(踊)",
+      "フォルダ": "A",
+      "BPM": 196,
+      "NOTES/FREEZE\n(SHOCK)": "453/13"
+    },
+    {
+      "id": 49,
+      "曲名": "恋閃繚乱(激)",
+      "フォルダ": "X3",
+      "BPM": 142,
+      "NOTES/FREEZE\n(SHOCK)": "327/7"
+    },
+    {
+      "id": 50,
+      "曲名": "A(激)",
+      "フォルダ": "EXT",
+      "BPM": "93-191",
+      "NOTES/FREEZE\n(SHOCK)": "329/3"
+    },
+    {
+      "id": 51,
+      "曲名": "ABSOLUTE(激)",
+      "フォルダ": "5th",
+      "BPM": "(38-)144",
+      "NOTES/FREEZE\n(SHOCK)": "311/0"
+    },
+    {
+      "id": 52,
+      "曲名": "Afterimage d'automne(踊)",
+      "フォルダ": "A20",
+      "BPM": 232,
+      "NOTES/FREEZE\n(SHOCK)": "310/30"
+    },
+    {
+      "id": 53,
+      "曲名": "A Geisha's Dream(激)",
+      "フォルダ": "X",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "340/30"
+    },
+    {
+      "id": 54,
+      "曲名": "Air Heroes(踊)",
+      "フォルダ": 2013,
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "306/40"
+    },
+    {
+      "id": 55,
+      "曲名": "ALGORITHM(踊)",
+      "フォルダ": "A",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "319/5"
+    },
+    {
+      "id": 56,
+      "曲名": "AM-3P(激)",
+      "フォルダ": "2nd",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "244/0"
+    },
+    {
+      "id": 57,
+      "曲名": "Angelic Jelly(踊)",
+      "フォルダ": "A",
+      "BPM": "100-200",
+      "NOTES/FREEZE\n(SHOCK)": "402/8"
+    },
+    {
+      "id": 58,
+      "曲名": "Another Phase(踊)",
+      "フォルダ": 2013,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "333/5"
+    },
+    {
+      "id": 59,
+      "曲名": "Anti-Matter(楽)",
+      "フォルダ": "X2",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "333/21"
+    },
+    {
+      "id": 60,
+      "曲名": "Arrabbiata(楽)",
+      "フォルダ": "SN2",
+      "BPM": 225,
+      "NOTES/FREEZE\n(SHOCK)": "310/0"
+    },
+    {
+      "id": 61,
+      "曲名": "bag(踊)",
+      "フォルダ": "EXT",
+      "BPM": 65,
+      "NOTES/FREEZE\n(SHOCK)": "208/0"
+    },
+    {
+      "id": 62,
+      "曲名": "Baile Le Samba(激)",
+      "フォルダ": "SN",
+      "BPM": 92,
+      "NOTES/FREEZE\n(SHOCK)": "215/23"
+    },
+    {
+      "id": 63,
+      "曲名": "BALLAD FOR YOU ~想いの雨~(激)",
+      "フォルダ": "SN",
+      "BPM": 65,
+      "NOTES/FREEZE\n(SHOCK)": "211/26"
+    },
+    {
+      "id": 64,
+      "曲名": "Believe(激)",
+      "フォルダ": "A",
+      "BPM": 128,
+      "NOTES/FREEZE\n(SHOCK)": "320/14"
+    },
+    {
+      "id": 65,
+      "曲名": "BLACK JACKAL(踊)",
+      "フォルダ": "A20",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "376/11"
+    },
+    {
+      "id": 66,
+      "曲名": "Bloody Tears (IIDX EDITION)(激)",
+      "フォルダ": "SN2",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "265/0"
+    },
+    {
+      "id": 67,
+      "曲名": "Blue Rain(激)",
+      "フォルダ": "X",
+      "BPM": 144,
+      "NOTES/FREEZE\n(SHOCK)": "298/16"
+    },
+    {
+      "id": 68,
+      "曲名": "Bounce Trippy(踊)",
+      "フォルダ": "A20",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "375/14"
+    },
+    {
+      "id": 69,
+      "曲名": "Break Free(激)",
+      "フォルダ": "A",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "334/32"
+    },
+    {
+      "id": 70,
+      "曲名": "BRILLIANT 2U (AKBK MIX)(踊)",
+      "フォルダ": "X3",
+      "BPM": 162,
+      "NOTES/FREEZE\n(SHOCK)": "392/13"
+    },
+    {
+      "id": 71,
+      "曲名": "CANDY☆(激)",
+      "フォルダ": "MAX",
+      "BPM": 192,
+      "NOTES/FREEZE\n(SHOCK)": "327/29"
+    },
+    {
+      "id": 72,
+      "曲名": "CAN'T STOP FALLIN' IN LOVE(激)",
+      "フォルダ": "4th",
+      "BPM": 155,
+      "NOTES/FREEZE\n(SHOCK)": "328/0"
+    },
+    {
+      "id": 73,
+      "曲名": "CELEBRATE NITE(激)",
+      "フォルダ": "4th",
+      "BPM": 144,
+      "NOTES/FREEZE\n(SHOCK)": "277/0"
+    },
+    {
+      "id": 74,
+      "曲名": "CELEBRATE NITE (EURO TRANCE STYLE)(鬼)",
+      "フォルダ": "MAX2",
+      "BPM": 144,
+      "NOTES/FREEZE\n(SHOCK)": "288/2"
+    },
+    {
+      "id": 75,
+      "曲名": "Children of the Beat(激)",
+      "フォルダ": 2013,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "369/18"
+    },
+    {
+      "id": 76,
+      "曲名": "Cleopatrysm(踊)",
+      "フォルダ": 2014,
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "345/15"
+    },
+    {
+      "id": 77,
+      "曲名": "CyberConnect(踊)",
+      "フォルダ": "A20",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "339/36"
+    },
+    {
+      "id": 78,
+      "曲名": "D2R(激)",
+      "フォルダ": "MAX2",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "327/7"
+    },
+    {
+      "id": 79,
+      "曲名": "Dance Celebration(激)",
+      "フォルダ": "X",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "330/10"
+    },
+    {
+      "id": 80,
+      "曲名": "Dance Partay(激)",
+      "フォルダ": 2014,
+      "BPM": 135,
+      "NOTES/FREEZE\n(SHOCK)": "294/8"
+    },
+    {
+      "id": 81,
+      "曲名": "Dazzlin' Darlin(激)",
+      "フォルダ": "X2",
+      "BPM": 149,
+      "NOTES/FREEZE\n(SHOCK)": "342/7"
+    },
+    {
+      "id": 82,
+      "曲名": "Dazzlin' Darlin -秋葉工房mix-(激)",
+      "フォルダ": "X2",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "389/1"
+    },
+    {
+      "id": 83,
+      "曲名": "Decade(激)",
+      "フォルダ": "X2",
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "282/23"
+    },
+    {
+      "id": 84,
+      "曲名": "dirty digital(激)",
+      "フォルダ": "X2",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "252/5"
+    },
+    {
+      "id": 85,
+      "曲名": "DIVE TO THE NIGHT(激)",
+      "フォルダ": "MAX2",
+      "BPM": 155,
+      "NOTES/FREEZE\n(SHOCK)": "341/1"
+    },
+    {
+      "id": 86,
+      "曲名": "Dragon Blade(激)",
+      "フォルダ": "SN",
+      "BPM": 240,
+      "NOTES/FREEZE\n(SHOCK)": "395/1"
+    },
+    {
+      "id": 87,
+      "曲名": "dreaming can make a wish come true(激)",
+      "フォルダ": "X3",
+      "BPM": 143,
+      "NOTES/FREEZE\n(SHOCK)": "326/10"
+    },
+    {
+      "id": 88,
+      "曲名": "Dream Machine(激)",
+      "フォルダ": "X",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "305/10"
+    },
+    {
+      "id": 89,
+      "曲名": "DROP(激)",
+      "フォルダ": "X2",
+      "BPM": 152,
+      "NOTES/FREEZE\n(SHOCK)": "348/31"
+    },
+    {
+      "id": 90,
+      "曲名": "ECSTASY (midnight blue mix)(鬼)",
+      "フォルダ": "MAX2",
+      "BPM": "145(-150)",
+      "NOTES/FREEZE\n(SHOCK)": "262/6"
+    },
+    {
+      "id": 91,
+      "曲名": "Elemental Creation(楽)",
+      "フォルダ": 2013,
+      "BPM": "106-424",
+      "NOTES/FREEZE\n(SHOCK)": "438/24"
+    },
+    {
+      "id": 92,
+      "曲名": "Elysium(激)",
+      "フォルダ": 2014,
+      "BPM": 145,
+      "NOTES/FREEZE\n(SHOCK)": "280/53"
+    },
+    {
+      "id": 93,
+      "曲名": "Emera(踊)",
+      "フォルダ": "A",
+      "BPM": 161,
+      "NOTES/FREEZE\n(SHOCK)": "305/17"
+    },
+    {
+      "id": 94,
+      "曲名": "Empathetic(踊)",
+      "フォルダ": 2013,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "417/11"
+    },
+    {
+      "id": 95,
+      "曲名": "era (nostalmix)(激)",
+      "フォルダ": "4th",
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "356/0"
+    },
+    {
+      "id": 96,
+      "曲名": "Far east nightbird kors k Remix -DDR edit ver-(踊)",
+      "フォルダ": "A",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "312/11"
+    },
+    {
+      "id": 97,
+      "曲名": "Fascination -eternal love mix-(楽)",
+      "フォルダ": "SN",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "288/6"
+    },
+    {
+      "id": 98,
+      "曲名": "Fascination MAXX(楽)",
+      "フォルダ": "SN",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "272/9"
+    },
+    {
+      "id": 99,
+      "曲名": "FIRE(激)",
+      "フォルダ": "SN2",
+      "BPM": 184,
+      "NOTES/FREEZE\n(SHOCK)": "345/7"
+    },
+    {
+      "id": 100,
+      "曲名": "First Time(踊)",
+      "フォルダ": "A",
+      "BPM": "70-140(-560)",
+      "NOTES/FREEZE\n(SHOCK)": "303/8"
+    },
+    {
+      "id": 101,
+      "曲名": "Fly away(激)",
+      "フォルダ": "SN",
+      "BPM": 125,
+      "NOTES/FREEZE\n(SHOCK)": "330/3"
+    },
+    {
+      "id": 102,
+      "曲名": "Follow Tomorrow(激)",
+      "フォルダ": 2014,
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "387/4"
+    },
+    {
+      "id": 103,
+      "曲名": "Freedom(激)",
+      "フォルダ": "SN",
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "291/7"
+    },
+    {
+      "id": 104,
+      "曲名": "GENOM SCREAMS(激)",
+      "フォルダ": "2nd",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "238/0"
+    },
+    {
+      "id": 105,
+      "曲名": "Get On Da Floor(激)",
+      "フォルダ": "A20",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "336/21"
+    },
+    {
+      "id": 106,
+      "曲名": "Go↓Go↑Girls&Boys!(激)",
+      "フォルダ": 2014,
+      "BPM": 158,
+      "NOTES/FREEZE\n(SHOCK)": "351/17"
+    },
+    {
+      "id": 107,
+      "曲名": "going up(鬼)",
+      "フォルダ": "X2",
+      "BPM": 212,
+      "NOTES/FREEZE\n(SHOCK)": "352/0(46)"
+    },
+    {
+      "id": 108,
+      "曲名": "Grand Chariot(踊)",
+      "フォルダ": "A",
+      "BPM": 191,
+      "NOTES/FREEZE\n(SHOCK)": "383/17"
+    },
+    {
+      "id": 109,
+      "曲名": "Healing Vision(激)",
+      "フォルダ": "5th",
+      "BPM": "49-196",
+      "NOTES/FREEZE\n(SHOCK)": "353/0"
+    },
+    {
+      "id": 110,
+      "曲名": "Healing Vision (Angelic mix)(踊)",
+      "フォルダ": "MAX",
+      "BPM": "49-196",
+      "NOTES/FREEZE\n(SHOCK)": "377/0"
+    },
+    {
+      "id": 111,
+      "曲名": "HEART BEAT FORMULA (Vinyl Mix)(踊)",
+      "フォルダ": 2014,
+      "BPM": 115,
+      "NOTES/FREEZE\n(SHOCK)": "301/24"
+    },
+    {
+      "id": 112,
+      "曲名": "HIGHER (next morning mix)(鬼)",
+      "フォルダ": "MAX2",
+      "BPM": 132,
+      "NOTES/FREEZE\n(SHOCK)": "284/3"
+    },
+    {
+      "id": 113,
+      "曲名": "Holic(激)",
+      "フォルダ": "4th",
+      "BPM": 155,
+      "NOTES/FREEZE\n(SHOCK)": "313/0"
+    },
+    {
+      "id": 114,
+      "曲名": "HYSTERIA(激)",
+      "フォルダ": "4th",
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "303/0"
+    },
+    {
+      "id": 115,
+      "曲名": "I'm an Albatraoz(激)",
+      "フォルダ": "A20",
+      "BPM": 128,
+      "NOTES/FREEZE\n(SHOCK)": "310/13"
+    },
+    {
+      "id": 116,
+      "曲名": "IMANOGUILTS(踊)",
+      "フォルダ": 2014,
+      "BPM": 184,
+      "NOTES/FREEZE\n(SHOCK)": "412/3"
+    },
+    {
+      "id": 117,
+      "曲名": "In The Air(激)",
+      "フォルダ": "X3",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "290/3"
+    },
+    {
+      "id": 118,
+      "曲名": "In The Breeze(激)",
+      "フォルダ": 2014,
+      "BPM": "123-142",
+      "NOTES/FREEZE\n(SHOCK)": "303/7"
+    },
+    {
+      "id": 119,
+      "曲名": "INTO YOUR HEART (Ruffage remix)(激)",
+      "フォルダ": "X",
+      "BPM": 135,
+      "NOTES/FREEZE\n(SHOCK)": "301/10"
+    },
+    {
+      "id": 120,
+      "曲名": "invisible rain(激)",
+      "フォルダ": "A",
+      "BPM": "58-97",
+      "NOTES/FREEZE\n(SHOCK)": "264/10"
+    },
+    {
+      "id": 121,
+      "曲名": "I/O(激)",
+      "フォルダ": "X3",
+      "BPM": 151,
+      "NOTES/FREEZE\n(SHOCK)": "367/15"
+    },
+    {
+      "id": 122,
+      "曲名": "Ishtar(踊)",
+      "フォルダ": "A",
+      "BPM": 156,
+      "NOTES/FREEZE\n(SHOCK)": "306/25"
+    },
+    {
+      "id": 123,
+      "曲名": "I Want You To Know(激)",
+      "フォルダ": "A",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "331/16"
+    },
+    {
+      "id": 124,
+      "曲名": "Jam&Marmalade(激)",
+      "フォルダ": "SN",
+      "BPM": 145,
+      "NOTES/FREEZE\n(SHOCK)": "212/13"
+    },
+    {
+      "id": 125,
+      "曲名": "JET WORLD(激)",
+      "フォルダ": "EXT",
+      "BPM": 138,
+      "NOTES/FREEZE\n(SHOCK)": "325/11"
+    },
+    {
+      "id": 126,
+      "曲名": "JOKER(激)",
+      "フォルダ": 2013,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "375/28"
+    },
+    {
+      "id": 127,
+      "曲名": "KEEP ON MOVIN' (DMX Mix)(激)",
+      "フォルダ": "SN",
+      "BPM": 132,
+      "NOTES/FREEZE\n(SHOCK)": "307/31"
+    },
+    {
+      "id": 128,
+      "曲名": "KHAMEN BREAK(踊)",
+      "フォルダ": 2014,
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "423/17"
+    },
+    {
+      "id": 129,
+      "曲名": "LA BAMBA(激) ※EXTREME初出",
+      "フォルダ": "EXT",
+      "BPM": 179,
+      "NOTES/FREEZE\n(SHOCK)": "305/10"
+    },
+    {
+      "id": 130,
+      "曲名": "La Bamba(激) ※SuperNOVA初出",
+      "フォルダ": "SN",
+      "BPM": 156,
+      "NOTES/FREEZE\n(SHOCK)": "328/1"
+    },
+    {
+      "id": 131,
+      "曲名": "L'amour et la liberté (Darwin&DJ Silver remix)(激)",
+      "フォルダ": "SN2",
+      "BPM": "70-140",
+      "NOTES/FREEZE\n(SHOCK)": "340/1"
+    },
+    {
+      "id": 132,
+      "曲名": "La receta(激)",
+      "フォルダ": "X2",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "339/11"
+    },
+    {
+      "id": 133,
+      "曲名": "Leaving...(激)",
+      "フォルダ": "X2",
+      "BPM": 145,
+      "NOTES/FREEZE\n(SHOCK)": "305/9"
+    },
+    {
+      "id": 134,
+      "曲名": "LOGICAL DASH(激)",
+      "フォルダ": "SN",
+      "BPM": 144,
+      "NOTES/FREEZE\n(SHOCK)": "224/18"
+    },
+    {
+      "id": 135,
+      "曲名": "London EVOLVED ver.A(踊)",
+      "フォルダ": "X3",
+      "BPM": "(43-)170-340",
+      "NOTES/FREEZE\n(SHOCK)": "337/1"
+    },
+    {
+      "id": 136,
+      "曲名": "London EVOLVED ver.B(踊)",
+      "フォルダ": "X3",
+      "BPM": "170-340(-420)",
+      "NOTES/FREEZE\n(SHOCK)": "376/8"
+    },
+    {
+      "id": 137,
+      "曲名": "London EVOLVED ver.C(踊)",
+      "フォルダ": "X3",
+      "BPM": "170-340",
+      "NOTES/FREEZE\n(SHOCK)": "391/4"
+    },
+    {
+      "id": 138,
+      "曲名": "LOVE AGAIN TONIGHT (For Melissa MIX)(激)",
+      "フォルダ": "4th",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "306/0"
+    },
+    {
+      "id": 139,
+      "曲名": "LOVE IS ORANGE(鬼)",
+      "フォルダ": "SN",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "327/8"
+    },
+    {
+      "id": 140,
+      "曲名": "Love♡Shine わんだふるmix(激)",
+      "フォルダ": "A",
+      "BPM": 177,
+      "NOTES/FREEZE\n(SHOCK)": "331/22"
+    },
+    {
+      "id": 141,
+      "曲名": "LOVE THIS FEELIN'(激)",
+      "フォルダ": "3rd",
+      "BPM": "95-190",
+      "NOTES/FREEZE\n(SHOCK)": "242/0"
+    },
+    {
+      "id": 142,
+      "曲名": "LOVING YOU (Epidemik remix)(激)",
+      "フォルダ": "X",
+      "BPM": 165,
+      "NOTES/FREEZE\n(SHOCK)": "306/26"
+    },
+    {
+      "id": 143,
+      "曲名": "Magnetic(踊)",
+      "フォルダ": 2013,
+      "BPM": "40-160",
+      "NOTES/FREEZE\n(SHOCK)": "383/49"
+    },
+    {
+      "id": 144,
+      "曲名": "MARIA (I believe...)(激)",
+      "フォルダ": "SN",
+      "BPM": 158,
+      "NOTES/FREEZE\n(SHOCK)": "277/10"
+    },
+    {
+      "id": 145,
+      "曲名": "MARS WAR 3(激)",
+      "フォルダ": "SN2",
+      "BPM": 200,
+      "NOTES/FREEZE\n(SHOCK)": "389/16"
+    },
+    {
+      "id": 146,
+      "曲名": "MAX LOVE(激)",
+      "フォルダ": "X2",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "454/3"
+    },
+    {
+      "id": 147,
+      "曲名": "Melody Life(鬼)",
+      "フォルダ": "X2",
+      "BPM": 172,
+      "NOTES/FREEZE\n(SHOCK)": "328/10(42)"
+    },
+    {
+      "id": 148,
+      "曲名": "Mermaid girl(激)",
+      "フォルダ": "X3",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "368/0"
+    },
+    {
+      "id": 149,
+      "曲名": "message(激)",
+      "フォルダ": "X3",
+      "BPM": 152,
+      "NOTES/FREEZE\n(SHOCK)": "320/20"
+    },
+    {
+      "id": 150,
+      "曲名": "murmur twins(激)",
+      "フォルダ": "SN",
+      "BPM": 174,
+      "NOTES/FREEZE\n(SHOCK)": "325/7"
+    },
+    {
+      "id": 151,
+      "曲名": "Music In The Rhythm(激)",
+      "フォルダ": "SN2",
+      "BPM": 155,
+      "NOTES/FREEZE\n(SHOCK)": "377/15"
+    },
+    {
+      "id": 152,
+      "曲名": "neko*neko(激)",
+      "フォルダ": 2014,
+      "BPM": 123,
+      "NOTES/FREEZE\n(SHOCK)": "397/18"
+    },
+    {
+      "id": 153,
+      "曲名": "New Beginning(激)",
+      "フォルダ": "X3",
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "343/34"
+    },
+    {
+      "id": 154,
+      "曲名": "New Decade(楽)",
+      "フォルダ": "X2",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "324/48"
+    },
+    {
+      "id": 155,
+      "曲名": "New Era(楽)",
+      "フォルダ": "A20",
+      "BPM": "30-240",
+      "NOTES/FREEZE\n(SHOCK)": "339/16"
+    },
+    {
+      "id": 156,
+      "曲名": "Nostalgia Is Lost(踊)",
+      "フォルダ": 2014,
+      "BPM": 172,
+      "NOTES/FREEZE\n(SHOCK)": "386/20"
+    },
+    {
+      "id": 157,
+      "曲名": "oarfish(激)",
+      "フォルダ": "X2",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "252/118"
+    },
+    {
+      "id": 158,
+      "曲名": "on the bounce(踊)",
+      "フォルダ": "X",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "310/16"
+    },
+    {
+      "id": 159,
+      "曲名": "osaka EVOLVED -毎度、おおきに！- (TYPE1)(楽)",
+      "フォルダ": "X3",
+      "BPM": "50-300",
+      "NOTES/FREEZE\n(SHOCK)": "262/22"
+    },
+    {
+      "id": 160,
+      "曲名": "osaka EVOLVED -毎度、おおきに！- (TYPE2)(楽)",
+      "フォルダ": "X3",
+      "BPM": "50-300",
+      "NOTES/FREEZE\n(SHOCK)": "262/22"
+    },
+    {
+      "id": 161,
+      "曲名": "osaka EVOLVED -毎度、おおきに！- (TYPE3)(楽)",
+      "フォルダ": "X3",
+      "BPM": "50-300",
+      "NOTES/FREEZE\n(SHOCK)": "274/25"
+    },
+    {
+      "id": 162,
+      "曲名": "#OurMemories(鬼)",
+      "フォルダ": "A",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "350/1"
+    },
+    {
+      "id": 163,
+      "曲名": "Our Soul(激)",
+      "フォルダ": "A20",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "318/18"
+    },
+    {
+      "id": 164,
+      "曲名": "PARANOiA(激)",
+      "フォルダ": "1st",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "319/0"
+    },
+    {
+      "id": 165,
+      "曲名": "PARANOiA ~HADES~(楽)",
+      "フォルダ": "SN2",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "341/1"
+    },
+    {
+      "id": 166,
+      "曲名": "PARANOiA KCET ~clean mix~(激)",
+      "フォルダ": "2nd",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "351/0"
+    },
+    {
+      "id": 167,
+      "曲名": "PARANOiA -Respect-(楽)",
+      "フォルダ": "SN",
+      "BPM": 300,
+      "NOTES/FREEZE\n(SHOCK)": "345/10"
+    },
+    {
+      "id": 168,
+      "曲名": "PARANOIA survivor(踊)",
+      "フォルダ": "EXT",
+      "BPM": "135-270",
+      "NOTES/FREEZE\n(SHOCK)": "340/2"
+    },
+    {
+      "id": 169,
+      "曲名": "PARANOIA survivor MAX(踊)",
+      "フォルダ": "EXT",
+      "BPM": "(73-)145-290",
+      "NOTES/FREEZE\n(SHOCK)": "377/2"
+    },
+    {
+      "id": 170,
+      "曲名": "Party Lights(激)",
+      "フォルダ": "X",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "250/52"
+    },
+    {
+      "id": 171,
+      "曲名": "Party Lights (Tommie Sunshine’s Brooklyn Fire Remix)(激)",
+      "フォルダ": 2014,
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "253/7"
+    },
+    {
+      "id": 172,
+      "曲名": "Party Rock Anthem(激)",
+      "フォルダ": "A20",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "295/19"
+    },
+    {
+      "id": 173,
+      "曲名": "Pierce The Sky(踊)",
+      "フォルダ": "X2",
+      "BPM": "85-170",
+      "NOTES/FREEZE\n(SHOCK)": "361/35"
+    },
+    {
+      "id": 174,
+      "曲名": "Plan 8(踊)",
+      "フォルダ": 2014,
+      "BPM": 212,
+      "NOTES/FREEZE\n(SHOCK)": "416/23"
+    },
+    {
+      "id": 175,
+      "曲名": "Playa (Original Mix)(激)",
+      "フォルダ": "X",
+      "BPM": 125,
+      "NOTES/FREEZE\n(SHOCK)": "331/7"
+    },
+    {
+      "id": 176,
+      "曲名": "Polovtsian Dances And Chorus(激)",
+      "フォルダ": "SN",
+      "BPM": 146,
+      "NOTES/FREEZE\n(SHOCK)": "328/4"
+    },
+    {
+      "id": 177,
+      "曲名": "Poseidon(激)",
+      "フォルダ": "SN2",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "298/7"
+    },
+    {
+      "id": 178,
+      "曲名": "POSSESSION (20th Anniversary Mix)(楽)",
+      "フォルダ": "A",
+      "BPM": "190-380",
+      "NOTES/FREEZE\n(SHOCK)": "431/11"
+    },
+    {
+      "id": 179,
+      "曲名": "PRANA(踊)",
+      "フォルダ": 2013,
+      "BPM": 188,
+      "NOTES/FREEZE\n(SHOCK)": "369/8"
+    },
+    {
+      "id": 180,
+      "曲名": "Prey(楽)",
+      "フォルダ": "A",
+      "BPM": 210,
+      "NOTES/FREEZE\n(SHOCK)": "332/13"
+    },
+    {
+      "id": 181,
+      "曲名": "Procyon(踊)",
+      "フォルダ": "A20",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "283/19"
+    },
+    {
+      "id": 182,
+      "曲名": "PUNISHER(踊)",
+      "フォルダ": 2014,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "382/14"
+    },
+    {
+      "id": 183,
+      "曲名": "PUT YOUR FAITH IN ME (Jazzy Groove)(鬼)",
+      "フォルダ": "2nd",
+      "BPM": 120,
+      "NOTES/FREEZE\n(SHOCK)": "230/12"
+    },
+    {
+      "id": 184,
+      "曲名": "Quickening(激)",
+      "フォルダ": "SN",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "333/13"
+    },
+    {
+      "id": 185,
+      "曲名": "Quick Master(激)",
+      "フォルダ": "SN",
+      "BPM": 147,
+      "NOTES/FREEZE\n(SHOCK)": "273/11"
+    },
+    {
+      "id": 186,
+      "曲名": "rainbow flyer(激)",
+      "フォルダ": "SN",
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "292/13"
+    },
+    {
+      "id": 187,
+      "曲名": "Raspberry ♥ Heart (English Version)(鬼)",
+      "フォルダ": "SN2",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "314/1"
+    },
+    {
+      "id": 188,
+      "曲名": "Re:GENERATION(踊)",
+      "フォルダ": "A20",
+      "BPM": 176,
+      "NOTES/FREEZE\n(SHOCK)": "382/26"
+    },
+    {
+      "id": 189,
+      "曲名": "resonance(激)",
+      "フォルダ": "X2",
+      "BPM": 165,
+      "NOTES/FREEZE\n(SHOCK)": "340/20"
+    },
+    {
+      "id": 190,
+      "曲名": "RЁVOLUTIΦN(踊)",
+      "フォルダ": 2013,
+      "BPM": 202,
+      "NOTES/FREEZE\n(SHOCK)": "391/43"
+    },
+    {
+      "id": 191,
+      "曲名": "Right Time Right Way(踊)",
+      "フォルダ": "A20",
+      "BPM": 174,
+      "NOTES/FREEZE\n(SHOCK)": "371/21"
+    },
+    {
+      "id": 192,
+      "曲名": "RISING FIRE HAWK(踊)",
+      "フォルダ": "A",
+      "BPM": 157,
+      "NOTES/FREEZE\n(SHOCK)": "402/5"
+    },
+    {
+      "id": 193,
+      "曲名": "Romancing Layer(踊)",
+      "フォルダ": 2014,
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "278/10"
+    },
+    {
+      "id": 194,
+      "曲名": "roppongi EVOLVED ver.A(踊)",
+      "フォルダ": "X2",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "337/30"
+    },
+    {
+      "id": 195,
+      "曲名": "roppongi EVOLVED ver.B(踊)",
+      "フォルダ": "X2",
+      "BPM": "(85-)170",
+      "NOTES/FREEZE\n(SHOCK)": "350/19"
+    },
+    {
+      "id": 196,
+      "曲名": "roppongi EVOLVED ver.C(踊)",
+      "フォルダ": "X2",
+      "BPM": "(43-)170",
+      "NOTES/FREEZE\n(SHOCK)": "368/16"
+    },
+    {
+      "id": 197,
+      "曲名": "roppongi EVOLVED ver.D(踊)",
+      "フォルダ": "X2",
+      "BPM": "170\n(85-680)",
+      "NOTES/FREEZE\n(SHOCK)": "388/21"
+    },
+    {
+      "id": 198,
+      "曲名": "Sacred Oath(激)",
+      "フォルダ": "X2",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "300/28"
+    },
+    {
+      "id": 199,
+      "曲名": "Sakura Mirage(踊)",
+      "フォルダ": 2014,
+      "BPM": 187,
+      "NOTES/FREEZE\n(SHOCK)": "337/20"
+    },
+    {
+      "id": 200,
+      "曲名": "Scorching Moon(激)",
+      "フォルダ": "SN",
+      "BPM": 125,
+      "NOTES/FREEZE\n(SHOCK)": "239/12"
+    },
+    {
+      "id": 201,
+      "曲名": "Second Heaven(激)",
+      "フォルダ": "X2",
+      "BPM": 149,
+      "NOTES/FREEZE\n(SHOCK)": "357/9"
+    },
+    {
+      "id": 202,
+      "曲名": "SEXY PLANET(激)",
+      "フォルダ": "4th",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "262/0"
+    },
+    {
+      "id": 203,
+      "曲名": "Shades of Grey(激)",
+      "フォルダ": "SN2",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "255/6"
+    },
+    {
+      "id": 204,
+      "曲名": "☆shining☆(激)",
+      "フォルダ": "X2",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "379/26"
+    },
+    {
+      "id": 205,
+      "曲名": "Shiny World(踊)",
+      "フォルダ": "X2",
+      "BPM": "(25-)100",
+      "NOTES/FREEZE\n(SHOCK)": "272/6"
+    },
+    {
+      "id": 206,
+      "曲名": "Show me your moves(激)",
+      "フォルダ": "A",
+      "BPM": 155,
+      "NOTES/FREEZE\n(SHOCK)": "384/58"
+    },
+    {
+      "id": 207,
+      "曲名": "Shut Up and Dance(激)",
+      "フォルダ": "A",
+      "BPM": 128,
+      "NOTES/FREEZE\n(SHOCK)": "270/2"
+    },
+    {
+      "id": 208,
+      "曲名": "SILVER☆DREAM(踊)",
+      "フォルダ": "X3",
+      "BPM": "96-192",
+      "NOTES/FREEZE\n(SHOCK)": "377/18"
+    },
+    {
+      "id": 209,
+      "曲名": "Silver Platform -I wanna get your heart-(激)",
+      "フォルダ": "SN2",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "340/21"
+    },
+    {
+      "id": 210,
+      "曲名": "Six String Proof(踊)",
+      "フォルダ": "A20",
+      "BPM": 130,
+      "NOTES/FREEZE\n(SHOCK)": "327/15"
+    },
+    {
+      "id": 211,
+      "曲名": "Something Special(激)",
+      "フォルダ": "X3",
+      "BPM": 95,
+      "NOTES/FREEZE\n(SHOCK)": "246/8"
+    },
+    {
+      "id": 212,
+      "曲名": "SP-TRIP MACHINE (JUNGLE MIX) (X-Special)(鬼)",
+      "フォルダ": "X",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "254/18"
+    },
+    {
+      "id": 213,
+      "曲名": "Spanish Snowy Dance(踊)",
+      "フォルダ": 2013,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "436/12"
+    },
+    {
+      "id": 214,
+      "曲名": "Special One(激)",
+      "フォルダ": "A",
+      "BPM": 128,
+      "NOTES/FREEZE\n(SHOCK)": "261/2"
+    },
+    {
+      "id": 215,
+      "曲名": "SPECIAL SUMMER CAMPAIGN!(踊)",
+      "フォルダ": 2014,
+      "BPM": 168,
+      "NOTES/FREEZE\n(SHOCK)": "312/17"
+    },
+    {
+      "id": 216,
+      "曲名": "Starlight Fantasia(踊)",
+      "フォルダ": 2014,
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "355/30"
+    },
+    {
+      "id": 217,
+      "曲名": "Starlight in the Snow(踊)",
+      "フォルダ": "A20",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "308/26"
+    },
+    {
+      "id": 218,
+      "曲名": "starmine(踊)",
+      "フォルダ": 2014,
+      "BPM": 182,
+      "NOTES/FREEZE\n(SHOCK)": "338/15"
+    },
+    {
+      "id": 219,
+      "曲名": "Starry HEAVEN(激)",
+      "フォルダ": 2013,
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "283/11"
+    },
+    {
+      "id": 220,
+      "曲名": "Start a New Day(踊)",
+      "フォルダ": "A",
+      "BPM": 168,
+      "NOTES/FREEZE\n(SHOCK)": "347/38"
+    },
+    {
+      "id": 221,
+      "曲名": "Stay 4 Ever(激)",
+      "フォルダ": "A20",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "289/17"
+    },
+    {
+      "id": 222,
+      "曲名": "stealth(激)",
+      "フォルダ": "SN2",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "311/29"
+    },
+    {
+      "id": 223,
+      "曲名": "STERLING SILVER (U1 overground mix)(踊)",
+      "フォルダ": "A",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "348/6"
+    },
+    {
+      "id": 224,
+      "曲名": "STILL IN MY HEART (MOMO MIX)(鬼)",
+      "フォルダ": "MAX2",
+      "BPM": "85-170",
+      "NOTES/FREEZE\n(SHOCK)": "357/2"
+    },
+    {
+      "id": 225,
+      "曲名": "Straight Oath(踊)",
+      "フォルダ": 2013,
+      "BPM": 182,
+      "NOTES/FREEZE\n(SHOCK)": "320/10"
+    },
+    {
+      "id": 226,
+      "曲名": "Strawberry Chu♡Chu♡(踊)",
+      "フォルダ": "A",
+      "BPM": 137,
+      "NOTES/FREEZE\n(SHOCK)": "316/18"
+    },
+    {
+      "id": 227,
+      "曲名": "StrayedCatz(踊)",
+      "フォルダ": "A",
+      "BPM": "114-152",
+      "NOTES/FREEZE\n(SHOCK)": "336/11"
+    },
+    {
+      "id": 228,
+      "曲名": "Sucka Luva(激)",
+      "フォルダ": 2013,
+      "BPM": 118,
+      "NOTES/FREEZE\n(SHOCK)": "272/4"
+    },
+    {
+      "id": 229,
+      "曲名": "Summer fantasy (Darwin remix)(鬼)",
+      "フォルダ": 2014,
+      "BPM": 178,
+      "NOTES/FREEZE\n(SHOCK)": "208/16(83)"
+    },
+    {
+      "id": 230,
+      "曲名": "SUN² SUMMER STEP!(激)",
+      "フォルダ": "A",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "351/33"
+    },
+    {
+      "id": 231,
+      "曲名": "Take A Step Forward(激)",
+      "フォルダ": "X3",
+      "BPM": 145,
+      "NOTES/FREEZE\n(SHOCK)": "316/10"
+    },
+    {
+      "id": 232,
+      "曲名": "The Heavens Above(激)",
+      "フォルダ": "X3",
+      "BPM": 140,
+      "NOTES/FREEZE\n(SHOCK)": "301/31"
+    },
+    {
+      "id": 233,
+      "曲名": "The Least 100sec(踊)",
+      "フォルダ": "EXT",
+      "BPM": "200-263",
+      "NOTES/FREEZE\n(SHOCK)": "304/7"
+    },
+    {
+      "id": 234,
+      "曲名": "This Beat Is.....(激)",
+      "フォルダ": "A20",
+      "BPM": 128,
+      "NOTES/FREEZE\n(SHOCK)": "287/10"
+    },
+    {
+      "id": 235,
+      "曲名": "THIS NIGHT(激)",
+      "フォルダ": "X2",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "345/20"
+    },
+    {
+      "id": 236,
+      "曲名": "Time Of Our Lives(激)",
+      "フォルダ": "A",
+      "BPM": 124,
+      "NOTES/FREEZE\n(SHOCK)": "293/10"
+    },
+    {
+      "id": 237,
+      "曲名": "Toy Box Factory(踊)",
+      "フォルダ": "A20",
+      "BPM": 148,
+      "NOTES/FREEZE\n(SHOCK)": "343/14"
+    },
+    {
+      "id": 238,
+      "曲名": "Triple Counter(楽)",
+      "フォルダ": "A",
+      "BPM": 216,
+      "NOTES/FREEZE\n(SHOCK)": "375/11"
+    },
+    {
+      "id": 239,
+      "曲名": "TRIP MACHINE survivor(踊)",
+      "フォルダ": "EXT",
+      "BPM": "(43-)170",
+      "NOTES/FREEZE\n(SHOCK)": "289/2"
+    },
+    {
+      "id": 240,
+      "曲名": "TRIP MACHINE PhoeniX(踊)",
+      "フォルダ": "SN2",
+      "BPM": "(80-)160",
+      "NOTES/FREEZE\n(SHOCK)": "283/1"
+    },
+    {
+      "id": 241,
+      "曲名": "TRIP MACHINE (X-Special)(鬼)",
+      "フォルダ": "X",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "258/22"
+    },
+    {
+      "id": 242,
+      "曲名": "Truare!(踊)",
+      "フォルダ": 2014,
+      "BPM": 183,
+      "NOTES/FREEZE\n(SHOCK)": "394/5"
+    },
+    {
+      "id": 243,
+      "曲名": "True Blue(踊)",
+      "フォルダ": 2014,
+      "BPM": 164,
+      "NOTES/FREEZE\n(SHOCK)": "380/9"
+    },
+    {
+      "id": 244,
+      "曲名": "TSUGARU (APPLE MIX)(鬼)",
+      "フォルダ": "MAX2",
+      "BPM": "(80-)165",
+      "NOTES/FREEZE\n(SHOCK)": "353/9"
+    },
+    {
+      "id": 245,
+      "曲名": "Twin Bee -Generation X-(激)",
+      "フォルダ": "EXT",
+      "BPM": 169,
+      "NOTES/FREEZE\n(SHOCK)": "242/15"
+    },
+    {
+      "id": 246,
+      "曲名": "Twin memories W(激)",
+      "フォルダ": "A",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "379/25"
+    },
+    {
+      "id": 247,
+      "曲名": "TWINKLE♡HEART(激)",
+      "フォルダ": "X3",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "359/52"
+    },
+    {
+      "id": 248,
+      "曲名": "UNBELIEVABLE (Sparky remix)(踊)",
+      "フォルダ": "X3",
+      "BPM": "88-175",
+      "NOTES/FREEZE\n(SHOCK)": "354/34"
+    },
+    {
+      "id": 249,
+      "曲名": "Under the Sky(激)",
+      "フォルダ": "SN",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "197/21"
+    },
+    {
+      "id": 250,
+      "曲名": "Uranus(激)",
+      "フォルダ": "SN2",
+      "BPM": "81-162",
+      "NOTES/FREEZE\n(SHOCK)": "344/7"
+    },
+    {
+      "id": 251,
+      "曲名": "VANESSA(踊)",
+      "フォルダ": "X2",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "327/17"
+    },
+    {
+      "id": 252,
+      "曲名": "VEGA(踊)",
+      "フォルダ": 2014,
+      "BPM": 191,
+      "NOTES/FREEZE\n(SHOCK)": "459/22"
+    },
+    {
+      "id": 253,
+      "曲名": "Vem brincar(激)",
+      "フォルダ": "SN2",
+      "BPM": 135,
+      "NOTES/FREEZE\n(SHOCK)": "261/31"
+    },
+    {
+      "id": 254,
+      "曲名": "Venus(激)",
+      "フォルダ": "SN2",
+      "BPM": 195,
+      "NOTES/FREEZE\n(SHOCK)": "355/22"
+    },
+    {
+      "id": 255,
+      "曲名": "Waiting 4 u(激)",
+      "フォルダ": "X",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "329/15"
+    },
+    {
+      "id": 256,
+      "曲名": "Waiting 4 u(鬼)",
+      "フォルダ": "X",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "300/14(32)"
+    },
+    {
+      "id": 257,
+      "曲名": "Why not(激)",
+      "フォルダ": "SN2",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "330/8"
+    },
+    {
+      "id": 258,
+      "曲名": "WILD SIDE(激)",
+      "フォルダ": 2013,
+      "BPM": 165,
+      "NOTES/FREEZE\n(SHOCK)": "339/21"
+    },
+    {
+      "id": 259,
+      "曲名": "will(激)",
+      "フォルダ": "X",
+      "BPM": 145,
+      "NOTES/FREEZE\n(SHOCK)": "283/15"
+    },
+    {
+      "id": 260,
+      "曲名": "Windy Fairy(踊)",
+      "フォルダ": 2013,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "345/26"
+    },
+    {
+      "id": 261,
+      "曲名": "Wow Wow VENUS(激)",
+      "フォルダ": 2013,
+      "BPM": 157,
+      "NOTES/FREEZE\n(SHOCK)": "376/25"
+    },
+    {
+      "id": 262,
+      "曲名": "ZEPHYRANTHES(踊)",
+      "フォルダ": "A",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "422/22"
+    },
+    {
+      "id": 263,
+      "曲名": "ZETA ~素数の世界と超越者~(踊)",
+      "フォルダ": "X2",
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "383/47"
+    },
+    {
+      "id": 264,
+      "曲名": ".59(激)",
+      "フォルダ": "4th",
+      "BPM": "(123-)135",
+      "NOTES/FREEZE\n(SHOCK)": "275/0"
+    },
+    {
+      "id": 265,
+      "曲名": "321STARS(激)",
+      "フォルダ": "EXT",
+      "BPM": 192,
+      "NOTES/FREEZE\n(SHOCK)": "308/7"
+    },
+    {
+      "id": 266,
+      "曲名": "IX(楽)",
+      "フォルダ": 2014,
+      "BPM": "99-396",
+      "NOTES/FREEZE\n(SHOCK)": "355/29"
+    }
+  ]

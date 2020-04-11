@@ -1,0 +1,583 @@
+[
+    {
+      "id": 1,
+      "曲名": "お米の美味しい炊き方、そしてお米を食べることによるその効果。(激)",
+      "フォルダ": 2013,
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "679/6"
+    },
+    {
+      "id": 2,
+      "曲名": "隅田川夏恋歌(鬼)",
+      "フォルダ": "X3",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "585/24"
+    },
+    {
+      "id": 3,
+      "曲名": "打打打打打打打打打打(鬼)",
+      "フォルダ": "A",
+      "BPM": 156,
+      "NOTES/FREEZE\n(SHOCK)": "618/16"
+    },
+    {
+      "id": 4,
+      "曲名": "轟け！恋のビーンボール！！(激)",
+      "フォルダ": 2014,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "573/1"
+    },
+    {
+      "id": 5,
+      "曲名": "ナイト・オブ・ナイツ(鬼)",
+      "フォルダ": "A",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "712/11"
+    },
+    {
+      "id": 6,
+      "曲名": "†渚の小悪魔ラヴリィ～レイディオ†(激)",
+      "フォルダ": 2013,
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "573/24"
+    },
+    {
+      "id": 7,
+      "曲名": "嘆きの樹(激)",
+      "フォルダ": 2014,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "666/16"
+    },
+    {
+      "id": 8,
+      "曲名": "冥(激)",
+      "フォルダ": "X2",
+      "BPM": "66-200",
+      "NOTES/FREEZE\n(SHOCK)": "616/12"
+    },
+    {
+      "id": 9,
+      "曲名": "めうめうぺったんたん！！(鬼)",
+      "フォルダ": 2013,
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "676/29"
+    },
+    {
+      "id": 10,
+      "曲名": "ラクガキスト(鬼)",
+      "フォルダ": 2014,
+      "BPM": 199,
+      "NOTES/FREEZE\n(SHOCK)": "710/2"
+    },
+    {
+      "id": 11,
+      "曲名": "輪廻転生(鬼)",
+      "フォルダ": "A",
+      "BPM": 196,
+      "NOTES/FREEZE\n(SHOCK)": "794/34"
+    },
+    {
+      "id": 12,
+      "曲名": "六兆年と一夜物語(鬼)",
+      "フォルダ": "A",
+      "BPM": 186,
+      "NOTES/FREEZE\n(SHOCK)": "582/46"
+    },
+    {
+      "id": 13,
+      "曲名": "海神(激)",
+      "フォルダ": 2014,
+      "BPM": 159,
+      "NOTES/FREEZE\n(SHOCK)": "596/29"
+    },
+    {
+      "id": 14,
+      "曲名": "ALPACORE(激)",
+      "フォルダ": "A20",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "566/10"
+    },
+    {
+      "id": 15,
+      "曲名": "ANNIVERSARY ∴∵∴ ←↓↑→(激)",
+      "フォルダ": "A",
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "654/16"
+    },
+    {
+      "id": 16,
+      "曲名": "Another Phase(鬼)",
+      "フォルダ": 2013,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "542/6(41)"
+    },
+    {
+      "id": 17,
+      "曲名": "AWAKE(鬼)",
+      "フォルダ": 2014,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "622/33"
+    },
+    {
+      "id": 18,
+      "曲名": "Blew My Mind(激)",
+      "フォルダ": 2013,
+      "BPM": "95-380",
+      "NOTES/FREEZE\n(SHOCK)": "584/17"
+    },
+    {
+      "id": 19,
+      "曲名": "BLSTR(激)",
+      "フォルダ": "A20",
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "587/36"
+    },
+    {
+      "id": 20,
+      "曲名": "Boss Rush(激)",
+      "フォルダ": "A",
+      "BPM": "95-190",
+      "NOTES/FREEZE\n(SHOCK)": "721/15"
+    },
+    {
+      "id": 21,
+      "曲名": "CARTOON HEROES (20th Anniversary Mix)(激)",
+      "フォルダ": "A20",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "546/8"
+    },
+    {
+      "id": 22,
+      "曲名": "CHAOS(鬼)",
+      "フォルダ": "SN",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "405/9"
+    },
+    {
+      "id": 23,
+      "曲名": "chaos eater(激)",
+      "フォルダ": 2014,
+      "BPM": "105-210",
+      "NOTES/FREEZE\n(SHOCK)": "588/3"
+    },
+    {
+      "id": 24,
+      "曲名": "CHAOS Terror-Tech Mix(激)",
+      "フォルダ": "A",
+      "BPM": 165,
+      "NOTES/FREEZE\n(SHOCK)": "545/9"
+    },
+    {
+      "id": 25,
+      "曲名": "Chinese Snowy Dance(激)",
+      "フォルダ": 2013,
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "594/35"
+    },
+    {
+      "id": 26,
+      "曲名": "Come to Life(激)",
+      "フォルダ": "A",
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "611/31"
+    },
+    {
+      "id": 27,
+      "曲名": "Cosy Catastrophe(激)",
+      "フォルダ": "A",
+      "BPM": "90-360",
+      "NOTES/FREEZE\n(SHOCK)": "550/9"
+    },
+    {
+      "id": 28,
+      "曲名": "DDR MEGAMIX(鬼)",
+      "フォルダ": "A",
+      "BPM": "65-333",
+      "NOTES/FREEZE\n(SHOCK)": "731/38"
+    },
+    {
+      "id": 29,
+      "曲名": "District of the Shadows(激)",
+      "フォルダ": "A20",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "547/10"
+    },
+    {
+      "id": 30,
+      "曲名": "Fascination -eternal love mix-(激)",
+      "フォルダ": "SN",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "588/6"
+    },
+    {
+      "id": 31,
+      "曲名": "Firestorm(激)",
+      "フォルダ": "A20",
+      "BPM": 177,
+      "NOTES/FREEZE\n(SHOCK)": "492/36"
+    },
+    {
+      "id": 32,
+      "曲名": "GAIA(激)",
+      "フォルダ": 2013,
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "670/0"
+    },
+    {
+      "id": 33,
+      "曲名": "Golden Arrow(激)",
+      "フォルダ": "A20",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "567/35"
+    },
+    {
+      "id": 34,
+      "曲名": "HAPPY☆LUCKY☆YEAPPY(激)",
+      "フォルダ": 2014,
+      "BPM": "190-380",
+      "NOTES/FREEZE\n(SHOCK)": "526/8"
+    },
+    {
+      "id": 35,
+      "曲名": "Idola(激)",
+      "フォルダ": 2014,
+      "BPM": 201,
+      "NOTES/FREEZE\n(SHOCK)": "653/28"
+    },
+    {
+      "id": 36,
+      "曲名": "Illegal Function Call(激)",
+      "フォルダ": "A",
+      "BPM": "130-260",
+      "NOTES/FREEZE\n(SHOCK)": "699/12"
+    },
+    {
+      "id": 37,
+      "曲名": "I Love You(激)",
+      "フォルダ": "A20",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "673/19"
+    },
+    {
+      "id": 38,
+      "曲名": "I'm so Happy(鬼)",
+      "フォルダ": "X2",
+      "BPM": 181,
+      "NOTES/FREEZE\n(SHOCK)": "535/16"
+    },
+    {
+      "id": 39,
+      "曲名": "Ishtar(鬼)",
+      "フォルダ": "A",
+      "BPM": 156,
+      "NOTES/FREEZE\n(SHOCK)": "481/58(56)"
+    },
+    {
+      "id": 40,
+      "曲名": "KHAMEN BREAK(激)",
+      "フォルダ": 2014,
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "638/15"
+    },
+    {
+      "id": 41,
+      "曲名": "Life is beautiful(激)",
+      "フォルダ": "A",
+      "BPM": 155,
+      "NOTES/FREEZE\n(SHOCK)": "616/37"
+    },
+    {
+      "id": 42,
+      "曲名": "Love You More(激)",
+      "フォルダ": "A",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "622/17"
+    },
+    {
+      "id": 43,
+      "曲名": "MAX.(period)(激)",
+      "フォルダ": 2014,
+      "BPM": "150-600",
+      "NOTES/FREEZE\n(SHOCK)": "573/3"
+    },
+    {
+      "id": 44,
+      "曲名": "MAX 300 (Super-Max-Me Mix)(鬼)",
+      "フォルダ": "SN",
+      "BPM": "140-320",
+      "NOTES/FREEZE\n(SHOCK)": "610/62"
+    },
+    {
+      "id": 45,
+      "曲名": "MAXX UNLIMITED(激)",
+      "フォルダ": "MAX2",
+      "BPM": "(48-)140-320",
+      "NOTES/FREEZE\n(SHOCK)": "555/56"
+    },
+    {
+      "id": 46,
+      "曲名": "Monkey Business(鬼)",
+      "フォルダ": 2013,
+      "BPM": "80-160",
+      "NOTES/FREEZE\n(SHOCK)": "651/52"
+    },
+    {
+      "id": 47,
+      "曲名": "New York EVOLVED (Type A)(激)",
+      "フォルダ": "X3",
+      "BPM": "48-380\n(95-380)",
+      "NOTES/FREEZE\n(SHOCK)": "573/88"
+    },
+    {
+      "id": 48,
+      "曲名": "New York EVOLVED (Type B)(激)",
+      "フォルダ": "X3",
+      "BPM": "48-380\n(48-190)",
+      "NOTES/FREEZE\n(SHOCK)": "561/23"
+    },
+    {
+      "id": 49,
+      "曲名": "New York EVOLVED (Type C)(激)",
+      "フォルダ": "X3",
+      "BPM": "48-380\n(48-190)",
+      "NOTES/FREEZE\n(SHOCK)": "523/16"
+    },
+    {
+      "id": 50,
+      "曲名": "Neutrino(激)",
+      "フォルダ": "A",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "499/24"
+    },
+    {
+      "id": 51,
+      "曲名": "on the bounce(鬼)",
+      "フォルダ": "X",
+      "BPM": 150,
+      "NOTES/FREEZE\n(SHOCK)": "482/20"
+    },
+    {
+      "id": 52,
+      "曲名": "out of focus(鬼)",
+      "フォルダ": "A",
+      "BPM": "84-167",
+      "NOTES/FREEZE\n(SHOCK)": "572/4"
+    },
+    {
+      "id": 53,
+      "曲名": "PARANOiA ~HADES~(激)",
+      "フォルダ": "SN2",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "522/1"
+    },
+    {
+      "id": 54,
+      "曲名": "PARANOiA -Respect-(激)",
+      "フォルダ": "SN",
+      "BPM": 300,
+      "NOTES/FREEZE\n(SHOCK)": "555/18"
+    },
+    {
+      "id": 55,
+      "曲名": "PARANOIA survivor MAX(鬼)",
+      "フォルダ": "EXT",
+      "BPM": "(73-)145-290",
+      "NOTES/FREEZE\n(SHOCK)": "613/4"
+    },
+    {
+      "id": 56,
+      "曲名": "Pluto(鬼)",
+      "フォルダ": "SN2",
+      "BPM": "50-220",
+      "NOTES/FREEZE\n(SHOCK)": "516/10"
+    },
+    {
+      "id": 57,
+      "曲名": "Poochie(激)",
+      "フォルダ": "A",
+      "BPM": "110-220",
+      "NOTES/FREEZE\n(SHOCK)": "627/32"
+    },
+    {
+      "id": 58,
+      "曲名": "POSSESSION (20th Anniversary Mix)(激)",
+      "フォルダ": "A",
+      "BPM": "190-380",
+      "NOTES/FREEZE\n(SHOCK)": "647/19"
+    },
+    {
+      "id": 59,
+      "曲名": "POSSESSION(EDP Live Mix)(激)",
+      "フォルダ": 2014,
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "604/21"
+    },
+    {
+      "id": 60,
+      "曲名": "PRANA(鬼)",
+      "フォルダ": 2013,
+      "BPM": 188,
+      "NOTES/FREEZE\n(SHOCK)": "582/7"
+    },
+    {
+      "id": 61,
+      "曲名": "Rampage Hero(激)",
+      "フォルダ": "A20",
+      "BPM": 175,
+      "NOTES/FREEZE\n(SHOCK)": "542/19"
+    },
+    {
+      "id": 62,
+      "曲名": "REVOLUTIONARY ADDICT(鬼)",
+      "フォルダ": "X3",
+      "BPM": "174(-696)",
+      "NOTES/FREEZE\n(SHOCK)": "591/18"
+    },
+    {
+      "id": 63,
+      "曲名": "S!ck(激)",
+      "フォルダ": "A",
+      "BPM": "88-177",
+      "NOTES/FREEZE\n(SHOCK)": "648/58"
+    },
+    {
+      "id": 64,
+      "曲名": "snow prism(鬼)",
+      "フォルダ": "X3",
+      "BPM": 196,
+      "NOTES/FREEZE\n(SHOCK)": "547/13"
+    },
+    {
+      "id": 65,
+      "曲名": "Somehow You Found Me(鬼)",
+      "フォルダ": 2013,
+      "BPM": 180,
+      "NOTES/FREEZE\n(SHOCK)": "606/19"
+    },
+    {
+      "id": 66,
+      "曲名": "Splash Gold(激)",
+      "フォルダ": "A20",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "639/79"
+    },
+    {
+      "id": 67,
+      "曲名": "Start a New Day(鬼)",
+      "フォルダ": "A",
+      "BPM": 168,
+      "NOTES/FREEZE\n(SHOCK)": "578/6"
+    },
+    {
+      "id": 68,
+      "曲名": "SWEET HOME PARTY(激)",
+      "フォルダ": "A20",
+      "BPM": "(70-)134-180",
+      "NOTES/FREEZE\n(SHOCK)": "449/14"
+    },
+    {
+      "id": 69,
+      "曲名": "The World Ends Now(激)",
+      "フォルダ": "A20",
+      "BPM": 200,
+      "NOTES/FREEZE\n(SHOCK)": "625/14"
+    },
+    {
+      "id": 70,
+      "曲名": "tokyoEVOLVED (TYPE1)(激)",
+      "フォルダ": "X3",
+      "BPM": "70-280(-560)",
+      "NOTES/FREEZE\n(SHOCK)": "523/6"
+    },
+    {
+      "id": 71,
+      "曲名": "tokyoEVOLVED (TYPE2)(激)",
+      "フォルダ": "X3",
+      "BPM": "70-280(-560)",
+      "NOTES/FREEZE\n(SHOCK)": "522/6"
+    },
+    {
+      "id": 72,
+      "曲名": "tokyoEVOLVED (TYPE3)(激)",
+      "フォルダ": "X3",
+      "BPM": "70-280(-560)",
+      "NOTES/FREEZE\n(SHOCK)": "492/6"
+    },
+    {
+      "id": 73,
+      "曲名": "toy boxer(激)",
+      "フォルダ": "A20",
+      "BPM": 190,
+      "NOTES/FREEZE\n(SHOCK)": "573/8"
+    },
+    {
+      "id": 74,
+      "曲名": "Trigger(激)",
+      "フォルダ": "X",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "490/28"
+    },
+    {
+      "id": 75,
+      "曲名": "Trill auf G(激)",
+      "フォルダ": "A20",
+      "BPM": 188,
+      "NOTES/FREEZE\n(SHOCK)": "666/17"
+    },
+    {
+      "id": 76,
+      "曲名": "Trim(激)",
+      "フォルダ": "SN2",
+      "BPM": "85-340",
+      "NOTES/FREEZE\n(SHOCK)": "467/27"
+    },
+    {
+      "id": 77,
+      "曲名": "Triple Journey -TAG EDITION-(激)",
+      "フォルダ": 2013,
+      "BPM": "96-192",
+      "NOTES/FREEZE\n(SHOCK)": "611/11"
+    },
+    {
+      "id": 78,
+      "曲名": "TRIP MACHINE EVOLUTION(激)",
+      "フォルダ": "X3",
+      "BPM": "190\n(95-380)",
+      "NOTES/FREEZE\n(SHOCK)": "584/15"
+    },
+    {
+      "id": 79,
+      "曲名": "TRIP MACHINE (xac nanoglide mix)(激)",
+      "フォルダ": "X3",
+      "BPM": 170,
+      "NOTES/FREEZE\n(SHOCK)": "590/64"
+    },
+    {
+      "id": 80,
+      "曲名": "Truare!(激)",
+      "フォルダ": 2014,
+      "BPM": 183,
+      "NOTES/FREEZE\n(SHOCK)": "549/5"
+    },
+    {
+      "id": 81,
+      "曲名": "True Blue(激)",
+      "フォルダ": 2014,
+      "BPM": 164,
+      "NOTES/FREEZE\n(SHOCK)": "604/10"
+    },
+    {
+      "id": 82,
+      "曲名": "VANESSA(激)",
+      "フォルダ": "X2",
+      "BPM": 185,
+      "NOTES/FREEZE\n(SHOCK)": "532/9"
+    },
+    {
+      "id": 83,
+      "曲名": "Vanquish The Ghost(激)",
+      "フォルダ": "A",
+      "BPM": "78-155(-310)",
+      "NOTES/FREEZE\n(SHOCK)": "525/25"
+    }
+  ]

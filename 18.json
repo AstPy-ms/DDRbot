@@ -1,0 +1,296 @@
+[
+    {
+      "id": 1,
+      "曲名": "シュレーディンガーの猫(鬼)",
+      "フォルダ": "A",
+      "BPM": 187,
+      "NOTES/FREEZE\n(SHOCK)": "788/7"
+    },
+    {
+      "id": 2,
+      "曲名": "嘆きの樹(鬼)",
+      "フォルダ": 2014,
+      "BPM": 160,
+      "NOTES/FREEZE\n(SHOCK)": "763/27"
+    },
+    {
+      "id": 3,
+      "曲名": "冥(鬼)",
+      "フォルダ": "X2",
+      "BPM": "66-200",
+      "NOTES/FREEZE\n(SHOCK)": "730/10"
+    },
+    {
+      "id": 4,
+      "曲名": "ACE FOR ACES(鬼)",
+      "フォルダ": "A",
+      "BPM": "200\n(50-800)",
+      "NOTES/FREEZE\n(SHOCK)": "786/16"
+    },
+    {
+      "id": 5,
+      "曲名": "Anti-Matter(鬼)",
+      "フォルダ": "X2",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "700/30"
+    },
+    {
+      "id": 6,
+      "曲名": "Astrogazer(鬼)",
+      "フォルダ": "A",
+      "BPM": 154,
+      "NOTES/FREEZE\n(SHOCK)": "712/38"
+    },
+    {
+      "id": 7,
+      "曲名": "Blew My Mind(鬼)",
+      "フォルダ": 2013,
+      "BPM": "95-380",
+      "NOTES/FREEZE\n(SHOCK)": "665/46(2)"
+    },
+    {
+      "id": 8,
+      "曲名": "Come to Life(鬼)",
+      "フォルダ": "A",
+      "BPM": "90-180",
+      "NOTES/FREEZE\n(SHOCK)": "730/70"
+    },
+    {
+      "id": 9,
+      "曲名": "Cosy Catastrophe(鬼)",
+      "フォルダ": "A",
+      "BPM": "90-360",
+      "NOTES/FREEZE\n(SHOCK)": "686/14"
+    },
+    {
+      "id": 10,
+      "曲名": "DEAD END -\"GROOVE RADAR\" Special-(鬼)",
+      "フォルダ": "SN2",
+      "BPM": "95-380",
+      "NOTES/FREEZE\n(SHOCK)": "479/75"
+    },
+    {
+      "id": 11,
+      "曲名": "EGOISM 440(激)",
+      "フォルダ": 2014,
+      "BPM": "55-440(-880)",
+      "NOTES/FREEZE\n(SHOCK)": "620/10"
+    },
+    {
+      "id": 12,
+      "曲名": "Elemental Creation(鬼)",
+      "フォルダ": 2013,
+      "BPM": "106-424",
+      "NOTES/FREEZE\n(SHOCK)": "860/22"
+    },
+    {
+      "id": 13,
+      "曲名": "ENDYMION(激)",
+      "フォルダ": "A",
+      "BPM": "220-440\n(110-880)",
+      "NOTES/FREEZE\n(SHOCK)": "783/22"
+    },
+    {
+      "id": 14,
+      "曲名": "Fascination -eternal love mix-(鬼)",
+      "フォルダ": "SN",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "572/14"
+    },
+    {
+      "id": 15,
+      "曲名": "Fascination MAXX(鬼)",
+      "フォルダ": "SN",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "670/16"
+    },
+    {
+      "id": 16,
+      "曲名": "First Time(鬼)",
+      "フォルダ": "A",
+      "BPM": "70-140(-560)",
+      "NOTES/FREEZE\n(SHOCK)": "554/11"
+    },
+    {
+      "id": 17,
+      "曲名": "Go For The Top(鬼)",
+      "フォルダ": "X3",
+      "BPM": "74-180(-409)",
+      "NOTES/FREEZE\n(SHOCK)": "622/40"
+    },
+    {
+      "id": 18,
+      "曲名": "Healing-D-Vision(鬼)",
+      "フォルダ": "SN",
+      "BPM": "180-360",
+      "NOTES/FREEZE\n(SHOCK)": "525/2"
+    },
+    {
+      "id": 19,
+      "曲名": "Lachryma《Re:Queen’M》(激)",
+      "フォルダ": "A20",
+      "BPM": 236,
+      "NOTES/FREEZE\n(SHOCK)": "869/18"
+    },
+    {
+      "id": 20,
+      "曲名": "MAX 360(激)",
+      "フォルダ": "A",
+      "BPM": "180-720",
+      "NOTES/FREEZE\n(SHOCK)": "888/7"
+    },
+    {
+      "id": 21,
+      "曲名": "MAX.(period)(鬼)",
+      "フォルダ": 2014,
+      "BPM": "150-600",
+      "NOTES/FREEZE\n(SHOCK)": "601/15"
+    },
+    {
+      "id": 22,
+      "曲名": "MAXX UNLIMITED (X-Special)(鬼)",
+      "フォルダ": "X",
+      "BPM": "(48-)140-320",
+      "NOTES/FREEZE\n(SHOCK)": "640/104"
+    },
+    {
+      "id": 23,
+      "曲名": "Neutrino(鬼)",
+      "フォルダ": "A",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "570/21"
+    },
+    {
+      "id": 24,
+      "曲名": "New Century(鬼)",
+      "フォルダ": "A",
+      "BPM": "98-195",
+      "NOTES/FREEZE\n(SHOCK)": "669/61(19)"
+    },
+    {
+      "id": 25,
+      "曲名": "New Decade(鬼)",
+      "フォルダ": "X2",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "543/49"
+    },
+    {
+      "id": 26,
+      "曲名": "NGO(鬼)",
+      "フォルダ": "SN2",
+      "BPM": "68-274",
+      "NOTES/FREEZE\n(SHOCK)": "418/10"
+    },
+    {
+      "id": 27,
+      "曲名": "Over The “Period”(激)",
+      "フォルダ": 2014,
+      "BPM": "23-840",
+      "NOTES/FREEZE\n(SHOCK)": "718/41"
+    },
+    {
+      "id": 28,
+      "曲名": "PARANOiA ~HADES~(鬼)",
+      "フォルダ": "SN2",
+      "BPM": "75-300",
+      "NOTES/FREEZE\n(SHOCK)": "662/1"
+    },
+    {
+      "id": 29,
+      "曲名": "PARANOiA Revolution(激)",
+      "フォルダ": "X3",
+      "BPM": "180-360",
+      "NOTES/FREEZE\n(SHOCK)": "679/20"
+    },
+    {
+      "id": 30,
+      "曲名": "Pluto Relinquish(鬼)",
+      "フォルダ": "SN2",
+      "BPM": "100-800(-805)",
+      "NOTES/FREEZE\n(SHOCK)": "557/17"
+    },
+    {
+      "id": 31,
+      "曲名": "Pluto The First(鬼)",
+      "フォルダ": "X2",
+      "BPM": "50-440",
+      "NOTES/FREEZE\n(SHOCK)": "481/2(57)"
+    },
+    {
+      "id": 32,
+      "曲名": "POSSESSION(鬼)",
+      "フォルダ": "X2",
+      "BPM": "185-370",
+      "NOTES/FREEZE\n(SHOCK)": "643/37"
+    },
+    {
+      "id": 33,
+      "曲名": "POSSESSION (20th Anniversary Mix)(鬼)",
+      "フォルダ": "A",
+      "BPM": "190-380",
+      "NOTES/FREEZE\n(SHOCK)": "704/12(55)"
+    },
+    {
+      "id": 34,
+      "曲名": "Prey(激)",
+      "フォルダ": "A",
+      "BPM": 210,
+      "NOTES/FREEZE\n(SHOCK)": "633/10"
+    },
+    {
+      "id": 35,
+      "曲名": "Prey(鬼)",
+      "フォルダ": "A",
+      "BPM": 210,
+      "NOTES/FREEZE\n(SHOCK)": "435/46"
+    },
+    {
+      "id": 36,
+      "曲名": "Tohoku EVOLVED(鬼)",
+      "フォルダ": "X3",
+      "BPM": "340\n(43-1020)",
+      "NOTES/FREEZE\n(SHOCK)": "690/46"
+    },
+    {
+      "id": 37,
+      "曲名": "Trigger(鬼)",
+      "フォルダ": "X",
+      "BPM": "100-400",
+      "NOTES/FREEZE\n(SHOCK)": "579/46"
+    },
+    {
+      "id": 38,
+      "曲名": "Triple Journey -TAG EDITION-(鬼)",
+      "フォルダ": 2013,
+      "BPM": "96-192",
+      "NOTES/FREEZE\n(SHOCK)": "720/12"
+    },
+    {
+      "id": 39,
+      "曲名": "TRIP MACHINE EVOLUTION(鬼)",
+      "フォルダ": "X3",
+      "BPM": "190\n(95-380)",
+      "NOTES/FREEZE\n(SHOCK)": "668/32"
+    },
+    {
+      "id": 40,
+      "曲名": "Valkyrie dimension(激)",
+      "フォルダ": "X2",
+      "BPM": "47-744",
+      "NOTES/FREEZE\n(SHOCK)": "632/29"
+    },
+    {
+      "id": 41,
+      "曲名": "888(鬼)",
+      "フォルダ": "X2",
+      "BPM": "111-888\n(111-444)",
+      "NOTES/FREEZE\n(SHOCK)": "753/25"
+    },
+    {
+      "id": 42,
+      "曲名": "IX(鬼)",
+      "フォルダ": 2014,
+      "BPM": "99-396",
+      "NOTES/FREEZE\n(SHOCK)": "753/49"
+    }
+  ]

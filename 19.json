@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "曲名": "EGOISM 440(鬼)",
+      "フォルダ": 2014,
+      "BPM": "55-440(-880)",
+      "NOTES/FREEZE\n(SHOCK)": "811/6"
+    },
+    {
+      "id": 2,
+      "曲名": "ENDYMION(鬼)",
+      "フォルダ": "A",
+      "BPM": "220-440\n(110-880)",
+      "NOTES/FREEZE\n(SHOCK)": "925/28"
+    },
+    {
+      "id": 3,
+      "曲名": "MAX 360(鬼)",
+      "フォルダ": "A",
+      "BPM": "180-720",
+      "NOTES/FREEZE\n(SHOCK)": "1000-09-30T14:41:01.000Z"
+    },
+    {
+      "id": 4,
+      "曲名": "Over The “Period”(鬼)",
+      "フォルダ": 2014,
+      "BPM": "23-840",
+      "NOTES/FREEZE\n(SHOCK)": "781/28"
+    },
+    {
+      "id": 5,
+      "曲名": "PARANOiA Revolution(鬼)",
+      "フォルダ": "X3",
+      "BPM": "180-360",
+      "NOTES/FREEZE\n(SHOCK)": "753/18"
+    },
+    {
+      "id": 6,
+      "曲名": "Valkyrie dimension(鬼)",
+      "フォルダ": "X2",
+      "BPM": "47-744",
+      "NOTES/FREEZE\n(SHOCK)": "712/44"
+    }
+  ]

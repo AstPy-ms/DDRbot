@@ -1,1 +1,1 @@
-# DDRBot
+# DDRbot
